@@ -1,0 +1,10 @@
+---
+documentclass: "book"
+output:
+  bookdown::bs4_book: "default"
+date: "`r Sys.Date()`"
+---
+
+
+# Principal Component Analysis (PCA)
+

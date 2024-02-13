@@ -1,0 +1,74 @@
+---
+title: "EAS 509 - Statistical Learning II"
+site: "bookdown::bookdown_site"
+author: "Jason Caballes"
+documentclass: "book"
+output:
+  bookdown::bs4_book: "default"
+date: "`r Sys.Date()`"
+---
+
+# Jason's EAS 509 Notes {-}
+Hello to anyone reading this.  This is Jason Caballes' notes for EAS 509! :)
+
+## Syllabus
+### Exams
+| Exam | Date | Format |
+|:------:|:------:|:--------:|
+| Midterm | Wednesday, March 13th | Closed book, with cheat sheet, (Clustering + PCA) |
+| Final Exam | TBA | Take home exam |
+
+### Tentative Course Schedule
+Tentative Ordering of Topics:
+
+- Syllabus and Course Design
+- Learning R
+    - R 101
+    - Interactive Data Visualization using R
+- Principal Component Analysis (PCA) and Kernel PCA
+- Clustering
+    - K-means
+    - Hierarchial
+    - Clustering Technique Comparison
+- Time Series Analysis
+    - Working with dates and time in R
+    - Time Series (Data Preprocessing and Visualization)
+    - Time Series Forecasting
+    - ARIMA Model
+    - Multivariate Time Series Analysis
+- Change Point Detection
+- Survival Analysis
+    - Survival and Censoring Times, Kaplain-Meier Survival Curive, Log-Rank Test, Regression models with a survival response
+- Association Rule Learning
+
+### Homework
+| Homework Number | Topic | Points | Due Date |
+|:---------------:|:-----:|:------:|:--------:|
+| 0 | Getting Familiar with UB Learns and R Studio | 10 | Tuesday, February 13th |
+| 1 | R and Interactive Visualizations | 60 | Tuesday, February 20th |
+| 2 | PCA | 60 | Wednesday, February 28th |
+| 3 | Clustering | 80 | Sunday, March 10th |
+| 4 | Time Series | 100 | Tuesday, April 2nd |
+| 5 | Change Point Detection | 40 | Sunday, April 14th |
+| Survival Analysis | 50 | Sunday April 21st |
+
+### Group Project
+- You get to choose the topic for the project!
+- First submission has priority on topic choice
+
+
+| Events | Due/Date | Points |
+|:------:|:--------:|:------:|
+| Group Formulation | Sunday, February 18th | 5 |
+| Proposal Submission | Wednesday, March 27th | 5 |
+| Project Progress Report (1 page) | Sunday, April 7th | 5 |
+| Project Presentation | Monday April 29th - Monday, May 6th | 35 |
+
+### Grade Weighting
+| Course Requirement | Weight |
+|:------------------:|:------:|
+| Homework | 45% |
+| Quizzes | 9% |
+| Midterm | 18% |
+| Final | 18% |
+| Group Project | 10% |

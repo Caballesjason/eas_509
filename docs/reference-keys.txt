@@ -1,0 +1,7 @@
+syllabus
+exams
+tentative-course-schedule
+homework
+group-project
+grade-weighting
+principal-component-analysis-pca

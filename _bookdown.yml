@@ -1,0 +1,10 @@
+---
+rmd_files:
+  - "index.Rmd"
+  - "01.Rmd"
+site: "bookdown::bookdown_site"
+output:
+  bookdown::bs4_book: "default"
+delete_merged_file: true
+output_dir: "docs"
+---
